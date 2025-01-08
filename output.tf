@@ -5,5 +5,5 @@ output "envoy_config_secret_arn" {
 
 output "vpc_endpoint_security_group_id" {
   description = "Security Group ID for VPC endpoint"
-  value       = aws_security_group.vpc_endpoint.id
+  value       = aws_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 }
