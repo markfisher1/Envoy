@@ -85,7 +85,7 @@ Then, link it to the existing infrastructure using Terraform outputs and inputs.
 
 - AWS account and IAM permissions.
 - Terraform CLI installed.
-- Git access to Disney's Terraform module repository.
+- Git access to xxx company Terraform module repository.
 
 ---
 
